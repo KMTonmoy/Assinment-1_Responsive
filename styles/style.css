@@ -494,4 +494,17 @@ footer i {
   .banner-greeting {
     font-size: 45px;
   }
+
+  .offSale-greeting{
+    font-size: 60px;
+  }
+  .offSale-disc{
+    font-size: 25px;
+  }
+  .offSale-title{
+    font-size: 40px;
+  }
+  .NewYearImg{
+    width: 100%;
+  }
 }
