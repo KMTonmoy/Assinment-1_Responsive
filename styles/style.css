@@ -583,18 +583,16 @@ footer i {
     width: 180px;
   }
 
-.gift-top-info {
+  .gift-top-info {
     padding: 0;
   }
-
 
   .row {
     text-align: center;
     align-items: center;
-     flex-direction: column;
+    flex-direction: column;
     gap: 24px;
   }
-
 
   .subs-container {
     width: 95%;
@@ -603,5 +601,17 @@ footer i {
     background: rgba(255, 0, 0, 0.05);
     padding: 50px 10px;
   }
+
+  footer {
+    width: 100%;
+    height: 100%;
+    background: #070211;
+    padding: 120px 10px;
+  }
+
+  .footer-title {
+    font-size: 12px;
+  }
+
 
 }
