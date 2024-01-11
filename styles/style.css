@@ -555,4 +555,31 @@ footer i {
   .Ellipse-img {
     width: 90%;
   }
+
+  .holyday {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .holyday-top-info {
+    padding: 0 20px;
+    margin-bottom: 68px;
+  }
+
+  .holyday-container {
+    width: 100%;
+  }
+
+  .boximg {
+    margin-top: 300px;
+    width: 250px;
+    height: 350px;
+  }
+  .discountban {
+    position: absolute;
+    right: 55%;
+    margin-top: -80px;
+    width: 180px;
+  }
 }
