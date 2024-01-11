@@ -507,4 +507,35 @@ footer i {
   .NewYearImg{
     width: 100%;
   }
+
+  .party {
+    flex-direction: column;
+  }
+  
+  .party-container {
+    background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
+      url("../assets/Vectorrr.png");
+    height: auto;
+    /* background-repeat: no-repeat; */
+    width: 100%;
+   padding: 16px;
+   flex-direction: column;
+  }
+  
+  .party-title {
+    margin-top: 30px;
+    font-size: 60px;
+    line-height: 55px;
+
+  }
+  .party-disc {
+    font-size: 18px;
+  }
+
+  .NewYearImg2024{
+    margin-top: 50px;
+    width: 250px;
+    height: 300px;
+  }
+
 }
