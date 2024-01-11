@@ -155,25 +155,24 @@ section {
   padding: 100px 300px;
 }
 
-
 .place-title {
-    color: #070211;
-    font-family: "Inter", sans-serif;
-    text-transform: capitalize;
-    
+  color: #070211;
+  font-family: "Inter", sans-serif;
+  text-transform: capitalize;
+
   font-size: 32px;
   font-weight: 600;
   line-height: 56px;
 }
 
 .text-red {
-    color: #f00;
-    font-family: "Inter", sans-serif;
-    text-transform: capitalize;
-    font-size: 32px;
-    font-weight: 600;
-    line-height: 56px;
-  }
+  color: #f00;
+  font-family: "Inter", sans-serif;
+  text-transform: capitalize;
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 56px;
+}
 
 .join-btn2 {
   margin-top: 45px;
@@ -497,55 +496,63 @@ footer i {
     font-size: 45px;
   }
 
-  .offSale-greeting{
+  .offSale-greeting {
     font-size: 60px;
   }
-  .offSale-disc{
+  .offSale-disc {
     font-size: 25px;
   }
-  .offSale-title{
+  .offSale-title {
     font-size: 40px;
   }
-  .NewYearImg{
+  .NewYearImg {
     width: 100%;
   }
 
   .party {
     flex-direction: column;
   }
-  
+
   .party-container {
     background: linear-gradient(90deg, #070211 0%, rgba(7, 2, 17, 0) 100%),
       url("../assets/Vectorrr.png");
     height: auto;
     /* background-repeat: no-repeat; */
     width: 100%;
-   padding: 16px;
-   flex-direction: column;
+    padding: 16px;
+    flex-direction: column;
   }
-  
+
   .party-title {
     margin-top: 30px;
     font-size: 60px;
     line-height: 55px;
-
   }
   .party-disc {
     font-size: 18px;
   }
 
-  .NewYearImg2024{
+  .NewYearImg2024 {
     margin-top: 50px;
     width: 250px;
     height: 300px;
   }
-  
+
   .place-section-continer {
     width: 100%;
     height: auto;
     padding: 100px 10px;
   }
 
-
-
+  .coming-container {
+    padding: 20px;
+    flex-direction: column;
+    margin: auto;
+  }
+  .coming-img {
+    text-align: center;
+  }
+  .Ellipse-img {
+    width: 90%;
+  }
 }
