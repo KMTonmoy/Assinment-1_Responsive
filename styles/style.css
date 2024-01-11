@@ -155,23 +155,25 @@ section {
   padding: 100px 300px;
 }
 
-.text-red {
-  color: #f00;
-  font-family: "Inter", sans-serif;
-  text-transform: capitalize;
+
+.place-title {
+    color: #070211;
+    font-family: "Inter", sans-serif;
+    text-transform: capitalize;
+    
   font-size: 32px;
   font-weight: 600;
   line-height: 56px;
 }
 
-.place-title {
-  color: #070211;
-  font-family: "Inter", sans-serif;
-  text-transform: capitalize;
-  font-size: 32px;
-  font-weight: 600;
-  line-height: 56px;
-}
+.text-red {
+    color: #f00;
+    font-family: "Inter", sans-serif;
+    text-transform: capitalize;
+    font-size: 32px;
+    font-weight: 600;
+    line-height: 56px;
+  }
 
 .join-btn2 {
   margin-top: 45px;
@@ -537,5 +539,13 @@ footer i {
     width: 250px;
     height: 300px;
   }
+  
+  .place-section-continer {
+    width: 100%;
+    height: auto;
+    padding: 100px 10px;
+  }
+
+
 
 }
