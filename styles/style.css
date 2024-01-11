@@ -594,4 +594,14 @@ footer i {
      flex-direction: column;
     gap: 24px;
   }
+
+
+  .subs-container {
+    width: 95%;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    padding: 50px 10px;
+  }
+
 }
