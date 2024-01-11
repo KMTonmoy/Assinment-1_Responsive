@@ -582,4 +582,16 @@ footer i {
     margin-top: -80px;
     width: 180px;
   }
+
+.gift-top-info {
+    padding: 0;
+  }
+
+
+  .row {
+    text-align: center;
+    align-items: center;
+     flex-direction: column;
+    gap: 24px;
+  }
 }
