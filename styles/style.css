@@ -5,6 +5,7 @@
   box-sizing: border-box;
   font-family: "Merriweather", serif;
   scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
 main,
@@ -621,6 +622,12 @@ footer i {
 }
 
 
-
+.holyday-greeting {
+  margin-top: 0;
+  color: #070211;
+  font-size: 60px;
+  font-weight: 900;
+  margin-bottom: 28px;
+}
 
 }
